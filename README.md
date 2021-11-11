@@ -16,8 +16,8 @@ Primeiro desafio da trilha de React Native do Ignite da Rocketseat. Esse projet
 ## 🏁 How to run the project
 #### Clone the repository
 ```bash
-git clone https://github.com/rafinhaa/ignite-react-native-todos
-cd ignite-react-native-todos
+git clone https://github.com/rafinhaa/ignite-reactrn-desafio-01
+cd ignite-reactrn-desafio-01
 ```
 
 #### Install dependencies
